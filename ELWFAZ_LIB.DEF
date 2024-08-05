@@ -1,0 +1,6 @@
+; Filename: ELWFAZ_LIB.DEF
+LIBRARY ELWFAZ.DLL
+; *** Visual Studio 2019 EXPORT ALIASES ONLY ***
+; Module Description Here - Copyright (c) Skynet, Inc.
+EXPORTS
+    init__elwfaz=_init__elwfaz	@1
